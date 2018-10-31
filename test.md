@@ -1,4 +1,4 @@
-```python
+```Visual Basic
 s = ""
 print s
 ```
