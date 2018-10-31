@@ -1,0 +1,4 @@
+```python
+s = ""
+print s
+```
